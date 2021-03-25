@@ -1,0 +1,8 @@
+{
+  "name": "root",
+  "rsaPath": "~/.ssh/id_rsa",
+  "client": "www.xxxx.cc:22",
+  "chmod": "0655",
+  "dir": "/tmp/",
+  "watch": "~/sftp-upload"
+}
